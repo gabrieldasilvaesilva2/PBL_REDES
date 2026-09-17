@@ -6,7 +6,7 @@ Mas vale ressaltar que algumas funções estão inconsistentes devido a erro na 
  ou seja, cada conexão do usuario gera uma nova threads (pode ser vuneravel em questão de escalabilidade)
  usanodo "import threading" nativo do Python 
 
-Os usuários atuais rodam em host = "localhost" que só é visível na própria máquina, então é preferível rodar com Docker usando host = "host.docker.internal"  
+Os clientes (motorista e passageiro) rodam em host = "localhost" que só é visível na própria máquina, então é preferível rodar com Docker usando host = "host.docker.internal"  
  ou com o IP do servidor em questão: host = "ip_do_servidor" em outra máquina. 
  port = 12345
 
@@ -18,7 +18,12 @@ Os usuários atuais rodam em host = "localhost" que só é visível na própria
 * **Docker / Docker Desktop** (Isolamento e containerização da aplicação)
 
 ---
-
+# modo de uso:
+ execute o servior.py, ele escutará na porta port = 12345
+ agurdando conexão .
+ ao executar motorista.py ou  passageiro.py um menu de opções aparecerá 
+ para autenticação e comunicação.
+ 
 ## Estrutura do Projeto
 ```text
 PBL/
