@@ -1,0 +1,80 @@
+{
+    "perfil": {
+        "nome": "gabrel",
+        "email": "gabriel@gmail.com",
+        "senha": "123",
+        "carro": "fox",
+        "cor_carro": "vermelho"
+    },
+    "historico_corridas": [
+        {
+            "id_carona": "6ddc7bf1-4ce9-4271-a5bd-141f2b0ec401",
+            "rota": [
+                "Feira de Santana",
+                "Salvador"
+            ],
+            "data": "25/12/2026"
+        },
+        {
+            "id_carona": "dd6a5013-5e63-430f-97b1-c6b6d76292b1",
+            "rota": [
+                "Tanquinho",
+                "Feira de Santana",
+                "Salvador"
+            ],
+            "data": "25/07/2026"
+        },
+        {
+            "id_carona": "66e18acb-d374-4b63-a2a8-3ee667a5625d",
+            "rota": [
+                "Tucano",
+                "Tanquinho"
+            ],
+            "data": "12/12/2026"
+        },
+        {
+            "id_carona": "fcdeec26-1ece-4e0e-abed-3d617bbeb1eb",
+            "rota": [
+                "Tanquinho",
+                "Salvador"
+            ],
+            "data": "12/12/2026"
+        }
+    ],
+    "coridas_ativas": [],
+    "corridas_ativas": [
+        {
+            "id_carona": "6ddc7bf1-4ce9-4271-a5bd-141f2b0ec401",
+            "rota": [
+                "Feira de Santana",
+                "Salvador"
+            ],
+            "data": "25/12/2026"
+        },
+        {
+            "id_carona": "dd6a5013-5e63-430f-97b1-c6b6d76292b1",
+            "rota": [
+                "Tanquinho",
+                "Feira de Santana",
+                "Salvador"
+            ],
+            "data": "25/07/2026"
+        },
+        {
+            "id_carona": "66e18acb-d374-4b63-a2a8-3ee667a5625d",
+            "rota": [
+                "Tucano",
+                "Tanquinho"
+            ],
+            "data": "12/12/2026"
+        },
+        {
+            "id_carona": "fcdeec26-1ece-4e0e-abed-3d617bbeb1eb",
+            "rota": [
+                "Tanquinho",
+                "Salvador"
+            ],
+            "data": "12/12/2026"
+        }
+    ]
+}

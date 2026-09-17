@@ -1,0 +1,43 @@
+{
+    "perfil": {
+        "nome": "pedro",
+        "email": "pedro",
+        "senha": "123"
+    },
+    "historico_corridas": [
+        {
+            "tipo": "DIRETA",
+            "id_carona": "dd6a5013-5e63-430f-97b1-c6b6d76292b1",
+            "motorista": "gabrel",
+            "trecho": "Tanquinho até Feira de Santana",
+            "data": "25/07/2026",
+            "preco_total": 50.0
+        },
+        {
+            "tipo": "DIRETA",
+            "id_carona": "dd6a5013-5e63-430f-97b1-c6b6d76292b1",
+            "motorista": "gabrel",
+            "trecho": "Tanquinho até Salvador",
+            "data": "25/07/2026",
+            "preco_total": 100.0
+        }
+    ],
+    "corridas_ativas": [
+        {
+            "tipo": "DIRETA",
+            "id_carona": "dd6a5013-5e63-430f-97b1-c6b6d76292b1",
+            "motorista": "gabrel",
+            "trecho": "Tanquinho até Feira de Santana",
+            "data": "25/07/2026",
+            "preco_total": 50.0
+        },
+        {
+            "tipo": "DIRETA",
+            "id_carona": "dd6a5013-5e63-430f-97b1-c6b6d76292b1",
+            "motorista": "gabrel",
+            "trecho": "Tanquinho até Salvador",
+            "data": "25/07/2026",
+            "preco_total": 100.0
+        }
+    ]
+}

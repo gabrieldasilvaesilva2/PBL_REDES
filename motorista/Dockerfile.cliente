@@ -1,0 +1,12 @@
+# Usa uma imagem oficial do Python limpa e leve
+FROM python:3.11-slim
+
+# Define a pasta de trabalho dentro do container
+WORKDIR /app
+
+# Copia os arquivos de dependências (se houver) ou todo o projeto
+COPY . /app
+
+
+# para iniciar o script do passageiro 
+CMD ["python", "motorista.py"]

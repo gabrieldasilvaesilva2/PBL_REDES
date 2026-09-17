@@ -1,0 +1,3238 @@
+{
+    "Abaíra": [
+        "Rio de Contas",
+        "Piatã",
+        "Jussiape",
+        "Mucugê",
+        "Érico Cardoso",
+        "Rio do Pires"
+    ],
+    "Abaré": [
+        "Curaçá",
+        "Chorrochó"
+    ],
+    "Acajutiba": [
+        "Crisópolis",
+        "Aporá",
+        "Rio Real",
+        "Esplanada"
+    ],
+    "Adustina": [
+        "Coronel João Sá",
+        "Antas",
+        "Paripiranga",
+        "Fátima",
+        "Sítio do Quinto"
+    ],
+    "Água Fria": [
+        "Irará",
+        "Sátiro Dias",
+        "Inhambupe",
+        "Santanópolis",
+        "Lamarão",
+        "Biritinga",
+        "Aramari",
+        "Ouriçangas"
+    ],
+    "Érico Cardoso": [
+        "Caturama",
+        "Rio de Contas",
+        "Livramento de Nossa Senhora",
+        "Abaíra",
+        "Rio do Pires",
+        "Paramirim"
+    ],
+    "Aiquara": [
+        "Itagi",
+        "Jequié",
+        "Ipiaú",
+        "Jitaúna",
+        "Itagibá"
+    ],
+    "Alagoinhas": [
+        "Teodoro Sampaio",
+        "Araçás",
+        "Inhambupe",
+        "Aramari",
+        "Pedrão",
+        "Entre Rios",
+        "Catu"
+    ],
+    "Alcobaça": [
+        "Caravelas",
+        "Vereda",
+        "Prado",
+        "Teixeira de Freitas"
+    ],
+    "Almadina": [
+        "Floresta Azul",
+        "Coaraci",
+        "Ibicaraí",
+        "Ibicuí"
+    ],
+    "Amargosa": [
+        "Laje",
+        "Ubaíra",
+        "Elísio Medrado",
+        "São Miguel das Matas",
+        "Santa Terezinha",
+        "Milagres",
+        "Brejões"
+    ],
+    "Amélia Rodrigues": [
+        "Terra Nova",
+        "Conceição do Jacuípe",
+        "Santo Amaro",
+        "São Sebastião do Passé"
+    ],
+    "América Dourada": [
+        "Morro do Chapéu",
+        "Canarana",
+        "João Dourado",
+        "Lapão",
+        "Cafarnaum"
+    ],
+    "Anagé": [
+        "Aracatu",
+        "Caetanos",
+        "Poções",
+        "Bom Jesus da Serra",
+        "Belo Campo",
+        "Vitória da Conquista",
+        "Caraíbas",
+        "Planalto"
+    ],
+    "Andaraí": [
+        "Palmeiras",
+        "Ibiquera",
+        "Itaeté",
+        "Lençóis",
+        "Mucugê",
+        "Lajedinho",
+        "Nova Redenção"
+    ],
+    "Andorinha": [
+        "Monte Santo",
+        "Jaguarari",
+        "Itiúba",
+        "Uauá",
+        "Senhor do Bonfim"
+    ],
+    "Angical": [
+        "Barreiras",
+        "Catolândia",
+        "Cotegipe",
+        "Cristópolis",
+        "Riachão das Neves"
+    ],
+    "Anguera": [
+        "Serra Preta",
+        "Feira de Santana"
+    ],
+    "Antas": [
+        "Novo Triunfo",
+        "Fátima",
+        "Cícero Dantas",
+        "Sítio do Quinto",
+        "Adustina"
+    ],
+    "Antônio Cardoso": [
+        "São Gonçalo dos Campos",
+        "Feira de Santana",
+        "Cabaceiras do Paraguaçu",
+        "Conceição da Feira",
+        "Ipecaetá",
+        "Santo Estêvão"
+    ],
+    "Antônio Gonçalves": [
+        "Campo Formoso",
+        "Pindobaçu",
+        "Mirangaba",
+        "Filadélfia",
+        "Senhor do Bonfim"
+    ],
+    "Aporá": [
+        "Crisópolis",
+        "Inhambupe",
+        "Acajutiba",
+        "Entre Rios",
+        "Esplanada"
+    ],
+    "Apuarema": [
+        "Itamari",
+        "Ibirataia",
+        "Jequié",
+        "Jaguaquara",
+        "Ipiaú",
+        "Nova Ibiá"
+    ],
+    "Aracatu": [
+        "Anagé",
+        "Tanhaçu",
+        "Caetanos",
+        "Brumado",
+        "Presidente Jânio Quadros",
+        "Caraíbas",
+        "Maetinga"
+    ],
+    "Araçás": [
+        "Pojuca",
+        "Itanagra",
+        "Alagoinhas",
+        "Entre Rios",
+        "Catu"
+    ],
+    "Araci": [
+        "Nova Soure",
+        "Teofilândia",
+        "Sátiro Dias",
+        "Conceição do Coité",
+        "Santaluz",
+        "Tucano",
+        "Biritinga",
+        "Barrocas",
+        "Cansanção",
+        "Quijingue"
+    ],
+    "Aramari": [
+        "Teodoro Sampaio",
+        "Alagoinhas",
+        "Inhambupe",
+        "Água Fria",
+        "Pedrão",
+        "Ouriçangas"
+    ],
+    "Arataca": [
+        "Camacan",
+        "Jussari",
+        "Una",
+        "Santa Luzia",
+        "São José da Vitória"
+    ],
+    "Aratuípe": [
+        "Laje",
+        "Muniz Ferreira",
+        "Jaguaripe",
+        "Nazaré",
+        "Santo Antônio de Jesus"
+    ],
+    "Aurelino Leal": [
+        "Gongogi",
+        "Ibicuí",
+        "Uruçuca",
+        "Itacaré",
+        "Ubaitaba",
+        "Itapitanga",
+        "Ilhéus",
+        "Itagibá"
+    ],
+    "Baianópolis": [
+        "Canápolis",
+        "Tabocas do Brejo Velho",
+        "Catolândia",
+        "Santana",
+        "Serra Dourada",
+        "Cristópolis",
+        "Santa Maria da Vitória",
+        "São Desidério"
+    ],
+    "Baixa Grande": [
+        "Mundo Novo",
+        "Ipirá",
+        "Macajuba",
+        "Mairi",
+        "Pintadas"
+    ],
+    "Banzaê": [
+        "Euclides da Cunha",
+        "Cícero Dantas",
+        "Ribeira do Pombal",
+        "Quijingue"
+    ],
+    "Barra": [
+        "Pilão Arcado",
+        "Wanderley",
+        "Muquém do São Francisco",
+        "Buritirama",
+        "Mansidão",
+        "Ibotirama",
+        "Xique-Xique",
+        "Morpará"
+    ],
+    "Barra da Estiva": [
+        "Contendas do Sincorá",
+        "Jussiape",
+        "Ituaçu",
+        "Ibicoara",
+        "Manoel Vitorino",
+        "Iramaia"
+    ],
+    "Barra do Choça": [
+        "Caatiba",
+        "Itambé",
+        "Planalto",
+        "Vitória da Conquista"
+    ],
+    "Barra do Mendes": [
+        "Brotas de Macaúbas",
+        "Gentio do Ouro",
+        "Barro Alto",
+        "Souto Soares",
+        "Ibipeba",
+        "Ipupiara",
+        "Seabra"
+    ],
+    "Barra do Rocha": [
+        "Gongogi",
+        "Ibirataia",
+        "Ubatã",
+        "Ipiaú",
+        "Itagibá"
+    ],
+    "Barreiras": [
+        "Luís Eduardo Magalhães",
+        "Catolândia",
+        "Angical",
+        "Riachão das Neves",
+        "São Desidério"
+    ],
+    "Barro Alto": [
+        "Ibititá",
+        "Canarana",
+        "Mulungu do Morro",
+        "Souto Soares",
+        "Barra do Mendes",
+        "Ibipeba"
+    ],
+    "Barrocas": [
+        "Serrinha",
+        "Araci",
+        "Conceição do Coité",
+        "Teofilândia"
+    ],
+    "Barro Preto": [
+        "Ibicaraí",
+        "Itajuípe",
+        "Coaraci",
+        "Itapé",
+        "Itabuna"
+    ],
+    "Belmonte": [
+        "Mascote",
+        "Itapebi",
+        "Santa Cruz Cabrália",
+        "Eunápolis",
+        "Canavieiras"
+    ],
+    "Belo Campo": [
+        "Anagé",
+        "Cândido Sales",
+        "Vitória da Conquista",
+        "Caraíbas",
+        "Tremedal"
+    ],
+    "Biritinga": [
+        "Teofilândia",
+        "Sátiro Dias",
+        "Lamarão",
+        "Água Fria",
+        "Serrinha",
+        "Araci"
+    ],
+    "Boa Nova": [
+        "Dário Meira",
+        "Mirante",
+        "Itagi",
+        "Jequié",
+        "Poções",
+        "Bom Jesus da Serra",
+        "Manoel Vitorino",
+        "Iguaí"
+    ],
+    "Boa Vista do Tupim": [
+        "Ibiquera",
+        "Itaeté",
+        "Lajedinho",
+        "Ruy Barbosa",
+        "Nova Redenção",
+        "Itaberaba",
+        "Marcionílio Souza",
+        "Iaçu"
+    ],
+    "Bom Jesus da Lapa": [
+        "Santana",
+        "Serra do Ramalho",
+        "Sítio do Mato",
+        "Muquém do São Francisco",
+        "Malhada",
+        "Macaúbas",
+        "Paratinga",
+        "Riacho de Santana"
+    ],
+    "Bom Jesus da Serra": [
+        "Boa Nova",
+        "Mirante",
+        "Anagé",
+        "Caetanos",
+        "Poções"
+    ],
+    "Boninal": [
+        "Palmeiras",
+        "Piatã",
+        "Novo Horizonte",
+        "Mucugê",
+        "Ibitiara",
+        "Seabra"
+    ],
+    "Bonito": [
+        "Morro do Chapéu",
+        "Lençóis",
+        "Iraquara",
+        "Mulungu do Morro",
+        "Utinga",
+        "Cafarnaum",
+        "Wagner"
+    ],
+    "Boquira": [
+        "Ibipitanga",
+        "Oliveira dos Brejinhos",
+        "Ibitiara",
+        "Macaúbas",
+        "Paratinga"
+    ],
+    "Botuporã": [
+        "Caturama",
+        "Paramirim",
+        "Tanque Novo",
+        "Macaúbas"
+    ],
+    "Brejões": [
+        "Ubaíra",
+        "Nova Itarana",
+        "Milagres",
+        "Amargosa",
+        "Santa Inês"
+    ],
+    "Brejolândia": [
+        "Tabocas do Brejo Velho",
+        "Wanderley",
+        "Sítio do Mato",
+        "Serra Dourada",
+        "Cristópolis",
+        "Muquém do São Francisco"
+    ],
+    "Brotas de Macaúbas": [
+        "Gentio do Ouro",
+        "Oliveira dos Brejinhos",
+        "Ibitiara",
+        "Barra do Mendes",
+        "Seabra",
+        "Ipupiara",
+        "Morpará"
+    ],
+    "Brumado": [
+        "Rio de Contas",
+        "Dom Basílio",
+        "Tanhaçu",
+        "Livramento de Nossa Senhora",
+        "Aracatu",
+        "Rio do Antônio",
+        "Lagoa Real",
+        "Ituaçu",
+        "Presidente Jânio Quadros",
+        "Malhada de Pedras",
+        "Maetinga"
+    ],
+    "Buerarema": [
+        "Una",
+        "Itabuna",
+        "São José da Vitória",
+        "Ilhéus"
+    ],
+    "Buritirama": [
+        "Mansidão",
+        "Pilão Arcado",
+        "Barra"
+    ],
+    "Caatiba": [
+        "Itororó",
+        "Nova Canaã",
+        "Itambé",
+        "Planalto",
+        "Barra do Choça"
+    ],
+    "Cabaceiras do Paraguaçu": [
+        "Cruz das Almas",
+        "Rafael Jambeiro",
+        "Muritiba",
+        "Castro Alves",
+        "Antônio Cardoso",
+        "Conceição da Feira",
+        "Sapeaçu",
+        "Governador Mangabeira",
+        "Santo Estêvão"
+    ],
+    "Cachoeira": [
+        "Santo Amaro",
+        "Saubara",
+        "São Félix",
+        "Conceição da Feira",
+        "Governador Mangabeira",
+        "Maragogipe"
+    ],
+    "Caculé": [
+        "Licínio de Almeida",
+        "Guajeru",
+        "Jacaraci",
+        "Rio do Antônio",
+        "Caetité",
+        "Pindaí",
+        "Ibiassucê"
+    ],
+    "Caém": [
+        "Capim Grosso",
+        "Saúde",
+        "Jacobina",
+        "Ponto Novo",
+        "Mirangaba",
+        "Caldeirão Grande"
+    ],
+    "Caetanos": [
+        "Mirante",
+        "Anagé",
+        "Tanhaçu",
+        "Aracatu",
+        "Bom Jesus da Serra",
+        "Caraíbas"
+    ],
+    "Caetité": [
+        "Licínio de Almeida",
+        "Igaporã",
+        "Caculé",
+        "Livramento de Nossa Senhora",
+        "Guanambi",
+        "Lagoa Real",
+        "Pindaí",
+        "Tanque Novo",
+        "Riacho de Santana",
+        "Ibiassucê",
+        "Paramirim"
+    ],
+    "Cafarnaum": [
+        "Canarana",
+        "Mulungu do Morro",
+        "Bonito",
+        "América Dourada",
+        "Morro do Chapéu"
+    ],
+    "Cairu": [
+        "Valença",
+        "Nilo Peçanha",
+        "Taperoá"
+    ],
+    "Caldeirão Grande": [
+        "Ponto Novo",
+        "Saúde",
+        "Capim Grosso",
+        "Caém"
+    ],
+    "Camacan": [
+        "Arataca",
+        "Mascote",
+        "Jussari",
+        "Pau Brasil",
+        "Santa Luzia",
+        "Itaju do Colônia",
+        "Potiraguá"
+    ],
+    "Camaçari": [
+        "Mata de São João",
+        "Dias d'Ávila",
+        "Lauro de Freitas",
+        "Simões Filho"
+    ],
+    "Camamu": [
+        "Igrapiúna",
+        "Ibirapitanga",
+        "Maraú"
+    ],
+    "Campo Alegre de Lourdes": [
+        "Pilão Arcado",
+        "Remanso"
+    ],
+    "Campo Formoso": [
+        "Antônio Gonçalves",
+        "Sento Sé",
+        "Mirangaba",
+        "Sobradinho",
+        "Juazeiro",
+        "Jaguarari",
+        "Umburanas",
+        "Senhor do Bonfim"
+    ],
+    "Canápolis": [
+        "Santa Maria da Vitória",
+        "Baianópolis",
+        "Santana"
+    ],
+    "Canarana": [
+        "Ibititá",
+        "Mulungu do Morro",
+        "Barro Alto",
+        "Lapão",
+        "América Dourada",
+        "Cafarnaum"
+    ],
+    "Canavieiras": [
+        "Santa Luzia",
+        "Mascote",
+        "Una",
+        "Belmonte"
+    ],
+    "Candeal": [
+        "Feira de Santana",
+        "Riachão do Jacuípe",
+        "Serrinha",
+        "Tanquinho",
+        "Serra Preta",
+        "Ichu"
+    ],
+    "Candeias": [
+        "Dias d'Ávila",
+        "Simões Filho",
+        "São Francisco do Conde",
+        "São Sebastião do Passé",
+        "Salvador"
+    ],
+    "Candiba": [
+        "Guanambi",
+        "Sebastião Laranjeiras",
+        "Pindaí"
+    ],
+    "Cândido Sales": [
+        "Encruzilhada",
+        "Vitória da Conquista",
+        "Belo Campo",
+        "Tremedal"
+    ],
+    "Cansanção": [
+        "Queimadas",
+        "Monte Santo",
+        "Nordestina",
+        "Santaluz",
+        "Itiúba",
+        "Araci",
+        "Quijingue"
+    ],
+    "Canudos": [
+        "Monte Santo",
+        "Jeremoabo",
+        "Rodelas",
+        "Novo Triunfo",
+        "Euclides da Cunha",
+        "Macururé",
+        "Uauá",
+        "Chorrochó"
+    ],
+    "Capela do Alto Alegre": [
+        "São José do Jacuípe",
+        "Gavião",
+        "Várzea da Roça",
+        "Nova Fátima",
+        "Pintadas",
+        "Mairi",
+        "Pé de Serra"
+    ],
+    "Capim Grosso": [
+        "São José do Jacuípe",
+        "Queimadas",
+        "Santaluz",
+        "Quixabeira",
+        "Jacobina",
+        "Ponto Novo",
+        "Caém",
+        "Caldeirão Grande"
+    ],
+    "Caraíbas": [
+        "Anagé",
+        "Aracatu",
+        "Caetanos",
+        "Belo Campo",
+        "Maetinga",
+        "Tremedal"
+    ],
+    "Caravelas": [
+        "Medeiros Neto",
+        "Nova Viçosa",
+        "Teixeira de Freitas",
+        "Lajedão",
+        "Ibirapuã",
+        "Alcobaça"
+    ],
+    "Cardeal da Silva": [
+        "Entre Rios",
+        "Esplanada"
+    ],
+    "Carinhanha": [
+        "Coribe",
+        "Serra do Ramalho",
+        "Malhada",
+        "Feira da Mata",
+        "São Félix do Coribe"
+    ],
+    "Casa Nova": [
+        "Sobradinho",
+        "Sento Sé",
+        "Remanso"
+    ],
+    "Castro Alves": [
+        "Elísio Medrado",
+        "Varzedo",
+        "Santa Terezinha",
+        "Conceição do Almeida",
+        "Cabaceiras do Paraguaçu",
+        "Sapeaçu",
+        "Rafael Jambeiro",
+        "Santo Estêvão"
+    ],
+    "Catolândia": [
+        "Barreiras",
+        "Angical",
+        "Cristópolis",
+        "Baianópolis",
+        "São Desidério"
+    ],
+    "Catu": [
+        "Pojuca",
+        "Terra Nova",
+        "Teodoro Sampaio",
+        "Araçás",
+        "Alagoinhas",
+        "São Sebastião do Passé"
+    ],
+    "Caturama": [
+        "Botuporã",
+        "Érico Cardoso",
+        "Macaúbas",
+        "Rio do Pires",
+        "Paramirim"
+    ],
+    "Central": [
+        "Irecê",
+        "Itaguaçu da Bahia",
+        "Presidente Dutra",
+        "Uibaí",
+        "São Gabriel",
+        "Ibipeba",
+        "Jussara"
+    ],
+    "Chorrochó": [
+        "Abaré",
+        "Canudos",
+        "Rodelas",
+        "Macururé",
+        "Uauá",
+        "Curaçá"
+    ],
+    "Cícero Dantas": [
+        "Heliópolis",
+        "Ribeira do Pombal",
+        "Antas",
+        "Banzaê",
+        "Novo Triunfo",
+        "Fátima",
+        "Euclides da Cunha"
+    ],
+    "Cipó": [
+        "Nova Soure",
+        "Ribeira do Pombal",
+        "Ribeira do Amparo",
+        "Tucano",
+        "Itapicuru"
+    ],
+    "Coaraci": [
+        "Ibicaraí",
+        "Ibicuí",
+        "Itajuípe",
+        "Almadina",
+        "Itapitanga",
+        "Ilhéus",
+        "Barro Preto"
+    ],
+    "Cocos": [
+        "Feira da Mata",
+        "Jaborandi",
+        "Coribe"
+    ],
+    "Conceição da Feira": [
+        "São Gonçalo dos Campos",
+        "Santo Amaro",
+        "Cachoeira",
+        "Cabaceiras do Paraguaçu",
+        "Antônio Cardoso",
+        "Governador Mangabeira"
+    ],
+    "Conceição do Almeida": [
+        "Cruz das Almas",
+        "Castro Alves",
+        "Varzedo",
+        "Dom Macedo Costa",
+        "Santo Antônio de Jesus",
+        "Sapeaçu",
+        "São Felipe"
+    ],
+    "Conceição do Coité": [
+        "Valente",
+        "Santaluz",
+        "Retirolândia",
+        "Riachão do Jacuípe",
+        "Barrocas",
+        "Serrinha",
+        "Araci",
+        "Ichu"
+    ],
+    "Conceição do Jacuípe": [
+        "Terra Nova",
+        "Santo Amaro",
+        "Feira de Santana",
+        "Coração de Maria",
+        "Teodoro Sampaio",
+        "Amélia Rodrigues"
+    ],
+    "Conde": [
+        "Jandaíra",
+        "Rio Real",
+        "Esplanada"
+    ],
+    "Condeúba": [
+        "Guajeru",
+        "Jacaraci",
+        "Mortugaba",
+        "Piripá",
+        "Presidente Jânio Quadros",
+        "Cordeiros"
+    ],
+    "Contendas do Sincorá": [
+        "Mirante",
+        "Tanhaçu",
+        "Barra da Estiva",
+        "Ituaçu",
+        "Manoel Vitorino"
+    ],
+    "Coração de Maria": [
+        "Irará",
+        "Feira de Santana",
+        "Teodoro Sampaio",
+        "Conceição do Jacuípe",
+        "Santanópolis",
+        "Pedrão"
+    ],
+    "Cordeiros": [
+        "Condeúba",
+        "Piripá"
+    ],
+    "Coribe": [
+        "Jaborandi",
+        "Carinhanha",
+        "Cocos",
+        "Feira da Mata",
+        "São Félix do Coribe"
+    ],
+    "Coronel João Sá": [
+        "Jeremoabo",
+        "Paripiranga",
+        "Pedro Alexandre",
+        "Sítio do Quinto",
+        "Adustina"
+    ],
+    "Correntina": [
+        "Santa Maria da Vitória",
+        "Jaborandi",
+        "São Desidério"
+    ],
+    "Cotegipe": [
+        "Angical",
+        "Wanderley",
+        "Cristópolis",
+        "Mansidão",
+        "Santa Rita de Cássia",
+        "Riachão das Neves"
+    ],
+    "Cravolândia": [
+        "Itaquara",
+        "Santa Inês",
+        "Ubaíra",
+        "Wenceslau Guimarães"
+    ],
+    "Crisópolis": [
+        "Olindina",
+        "Inhambupe",
+        "Rio Real",
+        "Acajutiba",
+        "Itapicuru",
+        "Aporá"
+    ],
+    "Cristópolis": [
+        "Tabocas do Brejo Velho",
+        "Catolândia",
+        "Brejolândia",
+        "Cotegipe",
+        "Angical",
+        "Wanderley",
+        "Baianópolis"
+    ],
+    "Cruz das Almas": [
+        "Muritiba",
+        "Conceição do Almeida",
+        "Cabaceiras do Paraguaçu",
+        "São Félix",
+        "Sapeaçu",
+        "São Felipe"
+    ],
+    "Curaçá": [
+        "Juazeiro",
+        "Abaré",
+        "Jaguarari",
+        "Uauá",
+        "Chorrochó"
+    ],
+    "Dário Meira": [
+        "Ibicuí",
+        "Boa Nova",
+        "Itagi",
+        "Jequié",
+        "Iguaí",
+        "Itagibá"
+    ],
+    "Dias d'Ávila": [
+        "Candeias",
+        "Camaçari",
+        "Mata de São João",
+        "Simões Filho",
+        "São Sebastião do Passé"
+    ],
+    "Dom Basílio": [
+        "Rio de Contas",
+        "Livramento de Nossa Senhora",
+        "Brumado"
+    ],
+    "Dom Macedo Costa": [
+        "São Felipe",
+        "Santo Antônio de Jesus",
+        "Conceição do Almeida"
+    ],
+    "Elísio Medrado": [
+        "Castro Alves",
+        "Varzedo",
+        "São Miguel das Matas",
+        "Santa Terezinha",
+        "Amargosa"
+    ],
+    "Encruzilhada": [
+        "Cândido Sales",
+        "Macarani",
+        "Ribeirão do Largo",
+        "Vitória da Conquista"
+    ],
+    "Entre Rios": [
+        "Itanagra",
+        "Araçás",
+        "Mata de São João",
+        "Alagoinhas",
+        "Inhambupe",
+        "Cardeal da Silva",
+        "Aporá",
+        "Esplanada"
+    ],
+    "Esplanada": [
+        "Entre Rios",
+        "Rio Real",
+        "Conde",
+        "Acajutiba",
+        "Cardeal da Silva",
+        "Aporá"
+    ],
+    "Euclides da Cunha": [
+        "Monte Santo",
+        "Canudos",
+        "Banzaê",
+        "Novo Triunfo",
+        "Cícero Dantas",
+        "Quijingue"
+    ],
+    "Eunápolis": [
+        "Guaratinga",
+        "Itabela",
+        "Itapebi",
+        "Porto Seguro",
+        "Santa Cruz Cabrália",
+        "Itagimirim",
+        "Belmonte"
+    ],
+    "Fátima": [
+        "Heliópolis",
+        "Antas",
+        "Cícero Dantas",
+        "Sítio do Quinto",
+        "Adustina"
+    ],
+    "Feira da Mata": [
+        "Coribe",
+        "Carinhanha",
+        "Cocos"
+    ],
+    "Feira de Santana": [
+        "São Gonçalo dos Campos",
+        "Santo Amaro",
+        "Candeal",
+        "Coração de Maria",
+        "Conceição do Jacuípe",
+        "Santa Bárbara",
+        "Anguera",
+        "Santanópolis",
+        "Riachão do Jacuípe",
+        "Antônio Cardoso",
+        "Ipecaetá",
+        "Tanquinho",
+        "Serra Preta"
+    ],
+    "Filadélfia": [
+        "Antônio Gonçalves",
+        "Pindobaçu",
+        "Ponto Novo",
+        "Itiúba",
+        "Senhor do Bonfim"
+    ],
+    "Firmino Alves": [
+        "Itaju do Colônia",
+        "Ibicuí",
+        "Santa Cruz da Vitória",
+        "Itororó"
+    ],
+    "Floresta Azul": [
+        "Ibicaraí",
+        "Ibicuí",
+        "Santa Cruz da Vitória",
+        "Almadina",
+        "Itaju do Colônia",
+        "Itapé"
+    ],
+    "Formosa do Rio Preto": [
+        "Santa Rita de Cássia",
+        "Riachão das Neves"
+    ],
+    "Gandu": [
+        "Wenceslau Guimarães",
+        "Nilo Peçanha",
+        "Ibirapitanga",
+        "Piraí do Norte",
+        "Nova Ibiá"
+    ],
+    "Gavião": [
+        "São José do Jacuípe",
+        "Nova Fátima",
+        "Capela do Alto Alegre",
+        "Santaluz",
+        "São Domingos"
+    ],
+    "Gentio do Ouro": [
+        "Brotas de Macaúbas",
+        "Itaguaçu da Bahia",
+        "Barra do Mendes",
+        "Ibipeba",
+        "Ipupiara",
+        "Xique-Xique",
+        "Morpará"
+    ],
+    "Glória": [
+        "Rodelas",
+        "Paulo Afonso"
+    ],
+    "Gongogi": [
+        "Ibicuí",
+        "Aurelino Leal",
+        "Ubaitaba",
+        "Barra do Rocha",
+        "Ubatã",
+        "Itapitanga",
+        "Ipiaú",
+        "Itagibá"
+    ],
+    "Governador Mangabeira": [
+        "Muritiba",
+        "Cachoeira",
+        "Cabaceiras do Paraguaçu",
+        "São Félix",
+        "Conceição da Feira"
+    ],
+    "Guajeru": [
+        "Caculé",
+        "Jacaraci",
+        "Rio do Antônio",
+        "Condeúba",
+        "Presidente Jânio Quadros",
+        "Malhada de Pedras"
+    ],
+    "Guanambi": [
+        "Sebastião Laranjeiras",
+        "Igaporã",
+        "Palmas de Monte Alto",
+        "Caetité",
+        "Pindaí",
+        "Candiba"
+    ],
+    "Guaratinga": [
+        "Itabela",
+        "Jucuruçu",
+        "Itamaraju",
+        "Eunápolis",
+        "Itagimirim"
+    ],
+    "Heliópolis": [
+        "Fátima",
+        "Cícero Dantas",
+        "Ribeira do Amparo",
+        "Ribeira do Pombal"
+    ],
+    "Iaçu": [
+        "Itatim",
+        "Planaltino",
+        "Ipirá",
+        "Nova Itarana",
+        "Milagres",
+        "Boa Vista do Tupim",
+        "Rafael Jambeiro",
+        "Itaberaba",
+        "Marcionílio Souza"
+    ],
+    "Ibiassucê": [
+        "Lagoa Real",
+        "Rio do Antônio",
+        "Caetité",
+        "Caculé"
+    ],
+    "Ibicaraí": [
+        "Floresta Azul",
+        "Coaraci",
+        "Almadina",
+        "Itapé",
+        "Barro Preto"
+    ],
+    "Ibicoara": [
+        "Itaeté",
+        "Barra da Estiva",
+        "Jussiape",
+        "Mucugê",
+        "Iramaia"
+    ],
+    "Ibicuí": [
+        "Dário Meira",
+        "Floresta Azul",
+        "Gongogi",
+        "Aurelino Leal",
+        "Santa Cruz da Vitória",
+        "Itororó",
+        "Coaraci",
+        "Nova Canaã",
+        "Almadina",
+        "Itapitanga",
+        "Iguaí",
+        "Firmino Alves",
+        "Itagibá"
+    ],
+    "Ibipeba": [
+        "Gentio do Ouro",
+        "Ibititá",
+        "Itaguaçu da Bahia",
+        "Barro Alto",
+        "Barra do Mendes",
+        "Uibaí",
+        "Central",
+        "Ipupiara"
+    ],
+    "Ibipitanga": [
+        "Boquira",
+        "Novo Horizonte",
+        "Ibitiara",
+        "Macaúbas",
+        "Rio do Pires"
+    ],
+    "Ibiquera": [
+        "Nova Redenção",
+        "Lajedinho",
+        "Boa Vista do Tupim",
+        "Andaraí"
+    ],
+    "Ibirapitanga": [
+        "Piraí do Norte",
+        "Ubaitaba",
+        "Igrapiúna",
+        "Ibirataia",
+        "Maraú",
+        "Gandu",
+        "Ubatã",
+        "Camamu",
+        "Nova Ibiá"
+    ],
+    "Ibirapuã": [
+        "Caravelas",
+        "Lajedão",
+        "Nova Viçosa",
+        "Mucuri"
+    ],
+    "Ibirataia": [
+        "Itamari",
+        "Barra do Rocha",
+        "Apuarema",
+        "Ubatã",
+        "Ibirapitanga",
+        "Ipiaú",
+        "Nova Ibiá"
+    ],
+    "Ibitiara": [
+        "Brotas de Macaúbas",
+        "Boquira",
+        "Boninal",
+        "Novo Horizonte",
+        "Ibipitanga",
+        "Oliveira dos Brejinhos",
+        "Seabra"
+    ],
+    "Ibititá": [
+        "Irecê",
+        "Presidente Dutra",
+        "Canarana",
+        "Uibaí",
+        "Barro Alto",
+        "Lapão",
+        "Ibipeba"
+    ],
+    "Ibotirama": [
+        "Barra",
+        "Oliveira dos Brejinhos",
+        "Muquém do São Francisco",
+        "Paratinga",
+        "Morpará"
+    ],
+    "Ichu": [
+        "Serrinha",
+        "Riachão do Jacuípe",
+        "Conceição do Coité",
+        "Candeal"
+    ],
+    "Igaporã": [
+        "Guanambi",
+        "Palmas de Monte Alto",
+        "Matina",
+        "Caetité",
+        "Riacho de Santana"
+    ],
+    "Igrapiúna": [
+        "Camamu",
+        "Ibirapitanga",
+        "Piraí do Norte",
+        "Ituberá"
+    ],
+    "Iguaí": [
+        "Dário Meira",
+        "Boa Nova",
+        "Ibicuí",
+        "Nova Canaã",
+        "Poções"
+    ],
+    "Ilhéus": [
+        "Aurelino Leal",
+        "Uruçuca",
+        "Itajuípe",
+        "Una",
+        "Coaraci",
+        "Itabuna",
+        "Itapitanga",
+        "Buerarema"
+    ],
+    "Inhambupe": [
+        "Crisópolis",
+        "Entre Rios",
+        "Sátiro Dias",
+        "Alagoinhas",
+        "Olindina",
+        "Água Fria",
+        "Aramari",
+        "Aporá"
+    ],
+    "Ipecaetá": [
+        "Feira de Santana",
+        "Ipirá",
+        "Antônio Cardoso",
+        "Rafael Jambeiro",
+        "Serra Preta",
+        "Santo Estêvão"
+    ],
+    "Ipiaú": [
+        "Gongogi",
+        "Ibirataia",
+        "Barra do Rocha",
+        "Aiquara",
+        "Apuarema",
+        "Jequié",
+        "Jitaúna",
+        "Itagibá"
+    ],
+    "Ipirá": [
+        "Rafael Jambeiro",
+        "Macajuba",
+        "Pintadas",
+        "Baixa Grande",
+        "Ruy Barbosa",
+        "Pé de Serra",
+        "Ipecaetá",
+        "Itaberaba",
+        "Serra Preta",
+        "Iaçu"
+    ],
+    "Ipupiara": [
+        "Brotas de Macaúbas",
+        "Gentio do Ouro",
+        "Barra do Mendes",
+        "Ibipeba",
+        "Morpará"
+    ],
+    "Irajuba": [
+        "Itaquara",
+        "Planaltino",
+        "Nova Itarana",
+        "Jaguaquara",
+        "Lajedo do Tabocal",
+        "Santa Inês",
+        "Itiruçu"
+    ],
+    "Iramaia": [
+        "Itaeté",
+        "Barra da Estiva",
+        "Ibicoara",
+        "Maracás",
+        "Manoel Vitorino",
+        "Marcionílio Souza"
+    ],
+    "Iraquara": [
+        "Palmeiras",
+        "Lençóis",
+        "Mulungu do Morro",
+        "Bonito",
+        "Souto Soares",
+        "Seabra"
+    ],
+    "Irará": [
+        "Coração de Maria",
+        "Santanópolis",
+        "Água Fria",
+        "Pedrão",
+        "Ouriçangas"
+    ],
+    "Irecê": [
+        "Ibititá",
+        "Presidente Dutra",
+        "João Dourado",
+        "São Gabriel",
+        "Lapão",
+        "Central"
+    ],
+    "Itabela": [
+        "Guaratinga",
+        "Eunápolis",
+        "Itamaraju",
+        "Porto Seguro"
+    ],
+    "Itaberaba": [
+        "Ipirá",
+        "Iaçu",
+        "Boa Vista do Tupim",
+        "Ruy Barbosa"
+    ],
+    "Itabuna": [
+        "Jussari",
+        "Itajuípe",
+        "Itapé",
+        "Ilhéus",
+        "São José da Vitória",
+        "Buerarema",
+        "Barro Preto"
+    ],
+    "Itacaré": [
+        "Ubaitaba",
+        "Aurelino Leal",
+        "Uruçuca",
+        "Maraú"
+    ],
+    "Itaeté": [
+        "Andaraí",
+        "Mucugê",
+        "Ibicoara",
+        "Boa Vista do Tupim",
+        "Nova Redenção",
+        "Marcionílio Souza",
+        "Iramaia"
+    ],
+    "Itagi": [
+        "Dário Meira",
+        "Boa Nova",
+        "Aiquara",
+        "Jequié",
+        "Itagibá"
+    ],
+    "Itagibá": [
+        "Dário Meira",
+        "Gongogi",
+        "Ibicuí",
+        "Aurelino Leal",
+        "Itagi",
+        "Barra do Rocha",
+        "Aiquara",
+        "Itapitanga",
+        "Ipiaú"
+    ],
+    "Itagimirim": [
+        "Guaratinga",
+        "Eunápolis",
+        "Itapebi",
+        "Itarantim"
+    ],
+    "Itaguaçu da Bahia": [
+        "Gentio do Ouro",
+        "Pilão Arcado",
+        "Sento Sé",
+        "Uibaí",
+        "Ibipeba",
+        "Jussara",
+        "Central",
+        "Xique-Xique"
+    ],
+    "Itaju do Colônia": [
+        "Floresta Azul",
+        "Camacan",
+        "Jussari",
+        "Santa Cruz da Vitória",
+        "Itororó",
+        "Itapetinga",
+        "Pau Brasil",
+        "Itapé",
+        "Firmino Alves"
+    ],
+    "Itajuípe": [
+        "Coaraci",
+        "Itabuna",
+        "Ilhéus",
+        "Barro Preto"
+    ],
+    "Itamaraju": [
+        "Guaratinga",
+        "Itabela",
+        "Jucuruçu",
+        "Porto Seguro",
+        "Vereda",
+        "Prado"
+    ],
+    "Itamari": [
+        "Ibirataia",
+        "Apuarema",
+        "Wenceslau Guimarães",
+        "Jaguaquara",
+        "Nova Ibiá"
+    ],
+    "Itambé": [
+        "Caatiba",
+        "Itororó",
+        "Itapetinga",
+        "Macarani",
+        "Vitória da Conquista",
+        "Ribeirão do Largo",
+        "Barra do Choça"
+    ],
+    "Itanagra": [
+        "Pojuca",
+        "Araçás",
+        "Mata de São João",
+        "Entre Rios"
+    ],
+    "Itanhém": [
+        "Vereda",
+        "Medeiros Neto"
+    ],
+    "Itaparica": [
+        "Vera Cruz",
+        "Salvador",
+        "Salinas da Margarida",
+        "Saubara"
+    ],
+    "Itapé": [
+        "Floresta Azul",
+        "Ibicaraí",
+        "Jussari",
+        "Itaju do Colônia",
+        "Itabuna",
+        "Barro Preto"
+    ],
+    "Itapebi": [
+        "Mascote",
+        "Eunápolis",
+        "Potiraguá",
+        "Itagimirim",
+        "Belmonte",
+        "Itarantim"
+    ],
+    "Itapetinga": [
+        "Itororó",
+        "Macarani",
+        "Pau Brasil",
+        "Itaju do Colônia",
+        "Potiraguá",
+        "Itambé",
+        "Itarantim"
+    ],
+    "Itapicuru": [
+        "Crisópolis",
+        "Nova Soure",
+        "Olindina",
+        "Cipó",
+        "Ribeira do Amparo",
+        "Rio Real"
+    ],
+    "Itapitanga": [
+        "Gongogi",
+        "Ibicuí",
+        "Aurelino Leal",
+        "Coaraci",
+        "Ilhéus",
+        "Itagibá"
+    ],
+    "Itaquara": [
+        "Cravolândia",
+        "Wenceslau Guimarães",
+        "Jaguaquara",
+        "Irajuba",
+        "Santa Inês"
+    ],
+    "Itarantim": [
+        "Itapebi",
+        "Itapetinga",
+        "Macarani",
+        "Potiraguá",
+        "Itagimirim",
+        "Maiquinique"
+    ],
+    "Itatim": [
+        "Santa Terezinha",
+        "Rafael Jambeiro",
+        "Iaçu",
+        "Milagres"
+    ],
+    "Itiruçu": [
+        "Planaltino",
+        "Lafaiete Coutinho",
+        "Jequié",
+        "Jaguaquara",
+        "Irajuba",
+        "Lajedo do Tabocal"
+    ],
+    "Itiúba": [
+        "Queimadas",
+        "Monte Santo",
+        "Andorinha",
+        "Ponto Novo",
+        "Filadélfia",
+        "Cansanção",
+        "Senhor do Bonfim"
+    ],
+    "Itororó": [
+        "Ibicuí",
+        "Caatiba",
+        "Itapetinga",
+        "Nova Canaã",
+        "Itaju do Colônia",
+        "Firmino Alves",
+        "Itambé"
+    ],
+    "Ituaçu": [
+        "Rio de Contas",
+        "Contendas do Sincorá",
+        "Tanhaçu",
+        "Barra da Estiva",
+        "Jussiape",
+        "Brumado"
+    ],
+    "Ituberá": [
+        "Igrapiúna",
+        "Nilo Peçanha",
+        "Piraí do Norte"
+    ],
+    "Iuiu": [
+        "Palmas de Monte Alto",
+        "Malhada",
+        "Sebastião Laranjeiras"
+    ],
+    "Jaborandi": [
+        "Correntina",
+        "Coribe",
+        "Cocos",
+        "Santa Maria da Vitória",
+        "São Félix do Coribe"
+    ],
+    "Jacaraci": [
+        "Guajeru",
+        "Licínio de Almeida",
+        "Caculé",
+        "Urandi",
+        "Mortugaba",
+        "Condeúba"
+    ],
+    "Jacobina": [
+        "Capim Grosso",
+        "Serrolândia",
+        "Miguel Calmon",
+        "Ourolândia",
+        "Saúde",
+        "Várzea Nova",
+        "Quixabeira",
+        "Mirangaba",
+        "Caém"
+    ],
+    "Jaguaquara": [
+        "Itaquara",
+        "Planaltino",
+        "Itamari",
+        "Lafaiete Coutinho",
+        "Jequié",
+        "Apuarema",
+        "Wenceslau Guimarães",
+        "Irajuba",
+        "Lajedo do Tabocal",
+        "Itiruçu"
+    ],
+    "Jaguarari": [
+        "Andorinha",
+        "Campo Formoso",
+        "Juazeiro",
+        "Uauá",
+        "Curaçá",
+        "Senhor do Bonfim"
+    ],
+    "Jaguaripe": [
+        "Laje",
+        "Nazaré",
+        "Maragogipe",
+        "Valença",
+        "Vera Cruz",
+        "Salinas da Margarida",
+        "Aratuípe"
+    ],
+    "Jandaíra": [
+        "Conde",
+        "Rio Real"
+    ],
+    "Jequié": [
+        "Dário Meira",
+        "Boa Nova",
+        "Itagi",
+        "Manoel Vitorino",
+        "Lafaiete Coutinho",
+        "Aiquara",
+        "Apuarema",
+        "Jaguaquara",
+        "Maracás",
+        "Ipiaú",
+        "Jitaúna",
+        "Itiruçu"
+    ],
+    "Jeremoabo": [
+        "Santa Brígida",
+        "Coronel João Sá",
+        "Paulo Afonso",
+        "Canudos",
+        "Rodelas",
+        "Novo Triunfo",
+        "Pedro Alexandre",
+        "Sítio do Quinto",
+        "Macururé"
+    ],
+    "Jiquiriçá": [
+        "Laje",
+        "Ubaíra",
+        "Teolândia",
+        "Mutuípe"
+    ],
+    "Jitaúna": [
+        "Ipiaú",
+        "Aiquara",
+        "Jequié"
+    ],
+    "João Dourado": [
+        "Irecê",
+        "São Gabriel",
+        "Lapão",
+        "América Dourada",
+        "Morro do Chapéu"
+    ],
+    "Juazeiro": [
+        "Jaguarari",
+        "Sobradinho",
+        "Curaçá",
+        "Campo Formoso"
+    ],
+    "Jucuruçu": [
+        "Guaratinga",
+        "Vereda",
+        "Itamaraju"
+    ],
+    "Jussara": [
+        "Itaguaçu da Bahia",
+        "Sento Sé",
+        "São Gabriel",
+        "Morro do Chapéu",
+        "Central"
+    ],
+    "Jussari": [
+        "Arataca",
+        "Camacan",
+        "Itaju do Colônia",
+        "Itabuna",
+        "Itapé",
+        "São José da Vitória"
+    ],
+    "Jussiape": [
+        "Rio de Contas",
+        "Barra da Estiva",
+        "Mucugê",
+        "Ituaçu",
+        "Abaíra",
+        "Ibicoara"
+    ],
+    "Lafaiete Coutinho": [
+        "Jequié",
+        "Jaguaquara",
+        "Maracás",
+        "Lajedo do Tabocal",
+        "Itiruçu"
+    ],
+    "Lagoa Real": [
+        "Livramento de Nossa Senhora",
+        "Rio do Antônio",
+        "Brumado",
+        "Caetité",
+        "Ibiassucê"
+    ],
+    "Laje": [
+        "Ubaíra",
+        "Jaguaripe",
+        "Mutuípe",
+        "Valença",
+        "São Miguel das Matas",
+        "Jiquiriçá",
+        "Santo Antônio de Jesus",
+        "Amargosa",
+        "Aratuípe"
+    ],
+    "Lajedão": [
+        "Caravelas",
+        "Ibirapuã",
+        "Medeiros Neto"
+    ],
+    "Lajedinho": [
+        "Ibiquera",
+        "Lençóis",
+        "Ruy Barbosa",
+        "Boa Vista do Tupim",
+        "Wagner",
+        "Andaraí"
+    ],
+    "Lajedo do Tabocal": [
+        "Planaltino",
+        "Lafaiete Coutinho",
+        "Jaguaquara",
+        "Irajuba",
+        "Maracás",
+        "Itiruçu"
+    ],
+    "Lamarão": [
+        "Santa Bárbara",
+        "Santanópolis",
+        "Biritinga",
+        "Água Fria",
+        "Serrinha"
+    ],
+    "Lapão": [
+        "Ibititá",
+        "Irecê",
+        "Presidente Dutra",
+        "Canarana",
+        "João Dourado",
+        "América Dourada"
+    ],
+    "Lauro de Freitas": [
+        "Camaçari",
+        "Salvador",
+        "Simões Filho"
+    ],
+    "Lençóis": [
+        "Palmeiras",
+        "Iraquara",
+        "Mulungu do Morro",
+        "Mucugê",
+        "Bonito",
+        "Lajedinho",
+        "Wagner",
+        "Andaraí"
+    ],
+    "Licínio de Almeida": [
+        "Caculé",
+        "Jacaraci",
+        "Urandi",
+        "Caetité",
+        "Pindaí"
+    ],
+    "Livramento de Nossa Senhora": [
+        "Rio de Contas",
+        "Dom Basílio",
+        "Érico Cardoso",
+        "Lagoa Real",
+        "Brumado",
+        "Caetité",
+        "Paramirim"
+    ],
+    "Luís Eduardo Magalhães": [
+        "Barreiras",
+        "São Desidério"
+    ],
+    "Macajuba": [
+        "Ipirá",
+        "Baixa Grande",
+        "Mundo Novo",
+        "Ruy Barbosa"
+    ],
+    "Macarani": [
+        "Itapetinga",
+        "Encruzilhada",
+        "Maiquinique",
+        "Ribeirão do Largo",
+        "Itambé",
+        "Itarantim"
+    ],
+    "Macaúbas": [
+        "Caturama",
+        "Boquira",
+        "Botuporã",
+        "Ibipitanga",
+        "Bom Jesus da Lapa",
+        "Tanque Novo",
+        "Paratinga",
+        "Riacho de Santana",
+        "Rio do Pires"
+    ],
+    "Macururé": [
+        "Canudos",
+        "Rodelas",
+        "Jeremoabo",
+        "Chorrochó"
+    ],
+    "Madre de Deus": [
+        "São Francisco do Conde",
+        "Salvador",
+        "Santo Amaro",
+        "Saubara"
+    ],
+    "Maetinga": [
+        "Aracatu",
+        "Brumado",
+        "Presidente Jânio Quadros",
+        "Caraíbas",
+        "Tremedal"
+    ],
+    "Maiquinique": [
+        "Macarani",
+        "Itarantim"
+    ],
+    "Mairi": [
+        "Piritiba",
+        "Miguel Calmon",
+        "Mundo Novo",
+        "Capela do Alto Alegre",
+        "Várzea da Roça",
+        "Várzea do Poço",
+        "Baixa Grande",
+        "Pintadas"
+    ],
+    "Malhada": [
+        "Carinhanha",
+        "Iuiu",
+        "Serra do Ramalho",
+        "Palmas de Monte Alto",
+        "Bom Jesus da Lapa",
+        "Riacho de Santana"
+    ],
+    "Malhada de Pedras": [
+        "Rio do Antônio",
+        "Presidente Jânio Quadros",
+        "Guajeru",
+        "Brumado"
+    ],
+    "Manoel Vitorino": [
+        "Boa Nova",
+        "Contendas do Sincorá",
+        "Mirante",
+        "Jequié",
+        "Barra da Estiva",
+        "Maracás",
+        "Iramaia"
+    ],
+    "Mansidão": [
+        "Cotegipe",
+        "Barra",
+        "Wanderley",
+        "Buritirama",
+        "Santa Rita de Cássia"
+    ],
+    "Maracás": [
+        "Planaltino",
+        "Manoel Vitorino",
+        "Lafaiete Coutinho",
+        "Jequié",
+        "Lajedo do Tabocal",
+        "Marcionílio Souza",
+        "Iramaia"
+    ],
+    "Maragogipe": [
+        "Jaguaripe",
+        "Nazaré",
+        "Saubara",
+        "Cachoeira",
+        "São Félix",
+        "Salinas da Margarida",
+        "São Felipe"
+    ],
+    "Maraú": [
+        "Ubaitaba",
+        "Camamu",
+        "Ibirapitanga",
+        "Itacaré"
+    ],
+    "Marcionílio Souza": [
+        "Itaeté",
+        "Planaltino",
+        "Maracás",
+        "Boa Vista do Tupim",
+        "Iaçu",
+        "Iramaia"
+    ],
+    "Mascote": [
+        "Camacan",
+        "Itapebi",
+        "Santa Luzia",
+        "Potiraguá",
+        "Belmonte",
+        "Canavieiras"
+    ],
+    "Mata de São João": [
+        "Pojuca",
+        "Itanagra",
+        "Camaçari",
+        "Dias d'Ávila",
+        "São Sebastião do Passé",
+        "Entre Rios"
+    ],
+    "Matina": [
+        "Palmas de Monte Alto",
+        "Igaporã",
+        "Riacho de Santana"
+    ],
+    "Medeiros Neto": [
+        "Caravelas",
+        "Itanhém",
+        "Teixeira de Freitas",
+        "Lajedão",
+        "Vereda"
+    ],
+    "Miguel Calmon": [
+        "Piritiba",
+        "Serrolândia",
+        "Mundo Novo",
+        "Várzea Nova",
+        "Várzea do Poço",
+        "Jacobina",
+        "Mairi",
+        "Morro do Chapéu"
+    ],
+    "Milagres": [
+        "Itatim",
+        "Nova Itarana",
+        "Santa Terezinha",
+        "Brejões",
+        "Amargosa",
+        "Iaçu"
+    ],
+    "Mirangaba": [
+        "Ourolândia",
+        "Saúde",
+        "Antônio Gonçalves",
+        "Jacobina",
+        "Campo Formoso",
+        "Pindobaçu",
+        "Caém",
+        "Umburanas"
+    ],
+    "Mirante": [
+        "Boa Nova",
+        "Contendas do Sincorá",
+        "Tanhaçu",
+        "Caetanos",
+        "Bom Jesus da Serra",
+        "Manoel Vitorino"
+    ],
+    "Monte Santo": [
+        "Itiúba",
+        "Andorinha",
+        "Canudos",
+        "Euclides da Cunha",
+        "Cansanção",
+        "Uauá",
+        "Quijingue"
+    ],
+    "Morpará": [
+        "Brotas de Macaúbas",
+        "Gentio do Ouro",
+        "Barra",
+        "Oliveira dos Brejinhos",
+        "Ibotirama",
+        "Ipupiara",
+        "Xique-Xique"
+    ],
+    "Morro do Chapéu": [
+        "Piritiba",
+        "Miguel Calmon",
+        "Mundo Novo",
+        "Ourolândia",
+        "Várzea Nova",
+        "Tapiramutá",
+        "Utinga",
+        "João Dourado",
+        "Sento Sé",
+        "Bonito",
+        "São Gabriel",
+        "América Dourada",
+        "Jussara",
+        "Cafarnaum",
+        "Umburanas"
+    ],
+    "Mortugaba": [
+        "Condeúba",
+        "Jacaraci"
+    ],
+    "Mucugê": [
+        "Palmeiras",
+        "Itaeté",
+        "Lençóis",
+        "Boninal",
+        "Piatã",
+        "Jussiape",
+        "Ibicoara",
+        "Abaíra",
+        "Andaraí"
+    ],
+    "Mucuri": [
+        "Ibirapuã",
+        "Nova Viçosa"
+    ],
+    "Mulungu do Morro": [
+        "Lençóis",
+        "Iraquara",
+        "Canarana",
+        "Bonito",
+        "Barro Alto",
+        "Souto Soares",
+        "Cafarnaum"
+    ],
+    "Mundo Novo": [
+        "Piritiba",
+        "Miguel Calmon",
+        "Tapiramutá",
+        "Macajuba",
+        "Utinga",
+        "Várzea do Poço",
+        "Mairi",
+        "Baixa Grande",
+        "Ruy Barbosa",
+        "Morro do Chapéu"
+    ],
+    "Muniz Ferreira": [
+        "São Felipe",
+        "Santo Antônio de Jesus",
+        "Nazaré",
+        "Aratuípe"
+    ],
+    "Muquém do São Francisco": [
+        "Brejolândia",
+        "Barra",
+        "Wanderley",
+        "Sítio do Mato",
+        "Bom Jesus da Lapa",
+        "Ibotirama",
+        "Paratinga"
+    ],
+    "Muritiba": [
+        "Governador Mangabeira",
+        "Cruz das Almas",
+        "Cabaceiras do Paraguaçu",
+        "São Félix"
+    ],
+    "Mutuípe": [
+        "Laje",
+        "Presidente Tancredo Neves",
+        "Valença",
+        "Teolândia",
+        "Jiquiriçá"
+    ],
+    "Nazaré": [
+        "Muniz Ferreira",
+        "Jaguaripe",
+        "Aratuípe",
+        "Maragogipe",
+        "São Felipe"
+    ],
+    "Nilo Peçanha": [
+        "Taperoá",
+        "Cairu",
+        "Teolândia",
+        "Gandu",
+        "Wenceslau Guimarães",
+        "Piraí do Norte",
+        "Ituberá"
+    ],
+    "Nordestina": [
+        "Cansanção",
+        "Queimadas",
+        "Santaluz"
+    ],
+    "Nova Canaã": [
+        "Ibicuí",
+        "Caatiba",
+        "Itororó",
+        "Poções",
+        "Iguaí",
+        "Planalto"
+    ],
+    "Nova Fátima": [
+        "Gavião",
+        "Capela do Alto Alegre",
+        "Retirolândia",
+        "Riachão do Jacuípe",
+        "Pé de Serra",
+        "São Domingos"
+    ],
+    "Nova Ibiá": [
+        "Itamari",
+        "Ibirataia",
+        "Apuarema",
+        "Gandu",
+        "Wenceslau Guimarães",
+        "Ibirapitanga"
+    ],
+    "Nova Itarana": [
+        "Planaltino",
+        "Milagres",
+        "Irajuba",
+        "Brejões",
+        "Santa Inês",
+        "Iaçu"
+    ],
+    "Nova Redenção": [
+        "Ibiquera",
+        "Itaeté",
+        "Boa Vista do Tupim",
+        "Andaraí"
+    ],
+    "Nova Soure": [
+        "Sátiro Dias",
+        "Olindina",
+        "Cipó",
+        "Tucano",
+        "Itapicuru",
+        "Araci"
+    ],
+    "Nova Viçosa": [
+        "Caravelas",
+        "Ibirapuã",
+        "Mucuri"
+    ],
+    "Novo Horizonte": [
+        "Piatã",
+        "Boninal",
+        "Ibipitanga",
+        "Ibitiara",
+        "Rio do Pires"
+    ],
+    "Novo Triunfo": [
+        "Jeremoabo",
+        "Canudos",
+        "Antas",
+        "Euclides da Cunha",
+        "Cícero Dantas",
+        "Sítio do Quinto"
+    ],
+    "Olindina": [
+        "Crisópolis",
+        "Nova Soure",
+        "Sátiro Dias",
+        "Inhambupe",
+        "Itapicuru"
+    ],
+    "Oliveira dos Brejinhos": [
+        "Brotas de Macaúbas",
+        "Boquira",
+        "Ibitiara",
+        "Ibotirama",
+        "Paratinga",
+        "Morpará"
+    ],
+    "Ouriçangas": [
+        "Irará",
+        "Água Fria",
+        "Aramari",
+        "Pedrão"
+    ],
+    "Ourolândia": [
+        "Várzea Nova",
+        "Jacobina",
+        "Mirangaba",
+        "Morro do Chapéu",
+        "Umburanas"
+    ],
+    "Palmas de Monte Alto": [
+        "Sebastião Laranjeiras",
+        "Igaporã",
+        "Iuiu",
+        "Guanambi",
+        "Matina",
+        "Malhada",
+        "Riacho de Santana"
+    ],
+    "Palmeiras": [
+        "Lençóis",
+        "Iraquara",
+        "Boninal",
+        "Mucugê",
+        "Seabra",
+        "Andaraí"
+    ],
+    "Paramirim": [
+        "Caturama",
+        "Botuporã",
+        "Livramento de Nossa Senhora",
+        "Érico Cardoso",
+        "Caetité",
+        "Tanque Novo"
+    ],
+    "Paratinga": [
+        "Boquira",
+        "Bom Jesus da Lapa",
+        "Sítio do Mato",
+        "Oliveira dos Brejinhos",
+        "Muquém do São Francisco",
+        "Macaúbas",
+        "Ibotirama"
+    ],
+    "Paripiranga": [
+        "Adustina",
+        "Coronel João Sá"
+    ],
+    "Pau Brasil": [
+        "Itaju do Colônia",
+        "Itapetinga",
+        "Camacan",
+        "Potiraguá"
+    ],
+    "Paulo Afonso": [
+        "Santa Brígida",
+        "Rodelas",
+        "Jeremoabo",
+        "Glória"
+    ],
+    "Pé de Serra": [
+        "Nova Fátima",
+        "Capela do Alto Alegre",
+        "Ipirá",
+        "Riachão do Jacuípe",
+        "Pintadas",
+        "Serra Preta"
+    ],
+    "Pedrão": [
+        "Irará",
+        "Coração de Maria",
+        "Teodoro Sampaio",
+        "Alagoinhas",
+        "Aramari",
+        "Ouriçangas"
+    ],
+    "Pedro Alexandre": [
+        "Santa Brígida",
+        "Coronel João Sá",
+        "Jeremoabo"
+    ],
+    "Piatã": [
+        "Boninal",
+        "Novo Horizonte",
+        "Mucugê",
+        "Abaíra",
+        "Rio do Pires"
+    ],
+    "Pilão Arcado": [
+        "Campo Alegre de Lourdes",
+        "Itaguaçu da Bahia",
+        "Barra",
+        "Sento Sé",
+        "Buritirama",
+        "Xique-Xique",
+        "Remanso"
+    ],
+    "Pindaí": [
+        "Licínio de Almeida",
+        "Sebastião Laranjeiras",
+        "Caculé",
+        "Urandi",
+        "Guanambi",
+        "Caetité",
+        "Candiba"
+    ],
+    "Pindobaçu": [
+        "Saúde",
+        "Antônio Gonçalves",
+        "Ponto Novo",
+        "Mirangaba",
+        "Filadélfia"
+    ],
+    "Pintadas": [
+        "Capela do Alto Alegre",
+        "Ipirá",
+        "Mairi",
+        "Baixa Grande",
+        "Pé de Serra"
+    ],
+    "Piraí do Norte": [
+        "Igrapiúna",
+        "Gandu",
+        "Nilo Peçanha",
+        "Ibirapitanga",
+        "Ituberá"
+    ],
+    "Piripá": [
+        "Condeúba",
+        "Presidente Jânio Quadros",
+        "Tremedal",
+        "Cordeiros"
+    ],
+    "Piritiba": [
+        "Miguel Calmon",
+        "Mundo Novo",
+        "Tapiramutá",
+        "Várzea do Poço",
+        "Mairi",
+        "Morro do Chapéu"
+    ],
+    "Planaltino": [
+        "Nova Itarana",
+        "Jaguaquara",
+        "Irajuba",
+        "Maracás",
+        "Lajedo do Tabocal",
+        "Marcionílio Souza",
+        "Itiruçu",
+        "Iaçu"
+    ],
+    "Planalto": [
+        "Caatiba",
+        "Anagé",
+        "Nova Canaã",
+        "Poções",
+        "Vitória da Conquista",
+        "Barra do Choça"
+    ],
+    "Poções": [
+        "Boa Nova",
+        "Anagé",
+        "Nova Canaã",
+        "Bom Jesus da Serra",
+        "Iguaí",
+        "Planalto"
+    ],
+    "Pojuca": [
+        "Itanagra",
+        "Araçás",
+        "Mata de São João",
+        "São Sebastião do Passé",
+        "Catu"
+    ],
+    "Ponto Novo": [
+        "Queimadas",
+        "Capim Grosso",
+        "Saúde",
+        "Pindobaçu",
+        "Caém",
+        "Filadélfia",
+        "Itiúba",
+        "Caldeirão Grande"
+    ],
+    "Porto Seguro": [
+        "Itabela",
+        "Santa Cruz Cabrália",
+        "Itamaraju",
+        "Eunápolis",
+        "Prado"
+    ],
+    "Potiraguá": [
+        "Mascote",
+        "Camacan",
+        "Itapebi",
+        "Itapetinga",
+        "Pau Brasil",
+        "Itarantim"
+    ],
+    "Prado": [
+        "Porto Seguro",
+        "Teixeira de Freitas",
+        "Itamaraju",
+        "Vereda",
+        "Alcobaça"
+    ],
+    "Presidente Dutra": [
+        "Ibititá",
+        "Irecê",
+        "São Gabriel",
+        "Lapão",
+        "Uibaí",
+        "Central"
+    ],
+    "Presidente Jânio Quadros": [
+        "Guajeru",
+        "Aracatu",
+        "Condeúba",
+        "Piripá",
+        "Brumado",
+        "Malhada de Pedras",
+        "Maetinga",
+        "Tremedal"
+    ],
+    "Presidente Tancredo Neves": [
+        "Valença",
+        "Taperoá",
+        "Teolândia",
+        "Mutuípe"
+    ],
+    "Queimadas": [
+        "Capim Grosso",
+        "Nordestina",
+        "Itiúba",
+        "Santaluz",
+        "Ponto Novo",
+        "Cansanção"
+    ],
+    "Quijingue": [
+        "Monte Santo",
+        "Ribeira do Pombal",
+        "Banzaê",
+        "Tucano",
+        "Euclides da Cunha",
+        "Cansanção",
+        "Araci"
+    ],
+    "Quixabeira": [
+        "São José do Jacuípe",
+        "Capim Grosso",
+        "Serrolândia",
+        "Várzea da Roça",
+        "Jacobina"
+    ],
+    "Rafael Jambeiro": [
+        "Itatim",
+        "Ipirá",
+        "Castro Alves",
+        "Santo Estêvão",
+        "Santa Terezinha",
+        "Cabaceiras do Paraguaçu",
+        "Ipecaetá",
+        "Iaçu"
+    ],
+    "Remanso": [
+        "Pilão Arcado",
+        "Campo Alegre de Lourdes",
+        "Sento Sé",
+        "Casa Nova"
+    ],
+    "Retirolândia": [
+        "Nova Fátima",
+        "Valente",
+        "Conceição do Coité",
+        "Riachão do Jacuípe",
+        "São Domingos"
+    ],
+    "Riachão das Neves": [
+        "Barreiras",
+        "Cotegipe",
+        "Angical",
+        "Formosa do Rio Preto",
+        "Santa Rita de Cássia"
+    ],
+    "Riachão do Jacuípe": [
+        "Candeal",
+        "Nova Fátima",
+        "Feira de Santana",
+        "Conceição do Coité",
+        "Retirolândia",
+        "Pé de Serra",
+        "São Domingos",
+        "Serra Preta",
+        "Ichu"
+    ],
+    "Riacho de Santana": [
+        "Igaporã",
+        "Bom Jesus da Lapa",
+        "Matina",
+        "Palmas de Monte Alto",
+        "Malhada",
+        "Caetité",
+        "Macaúbas",
+        "Tanque Novo"
+    ],
+    "Ribeira do Amparo": [
+        "Cipó",
+        "Itapicuru",
+        "Heliópolis",
+        "Ribeira do Pombal"
+    ],
+    "Ribeira do Pombal": [
+        "Heliópolis",
+        "Cipó",
+        "Banzaê",
+        "Ribeira do Amparo",
+        "Tucano",
+        "Cícero Dantas",
+        "Quijingue"
+    ],
+    "Ribeirão do Largo": [
+        "Macarani",
+        "Vitória da Conquista",
+        "Itambé",
+        "Encruzilhada"
+    ],
+    "Rio de Contas": [
+        "Dom Basílio",
+        "Livramento de Nossa Senhora",
+        "Jussiape",
+        "Érico Cardoso",
+        "Ituaçu",
+        "Abaíra",
+        "Brumado",
+        "Rio do Pires"
+    ],
+    "Rio do Antônio": [
+        "Guajeru",
+        "Caculé",
+        "Lagoa Real",
+        "Brumado",
+        "Malhada de Pedras",
+        "Ibiassucê"
+    ],
+    "Rio do Pires": [
+        "Caturama",
+        "Rio de Contas",
+        "Piatã",
+        "Novo Horizonte",
+        "Ibipitanga",
+        "Érico Cardoso",
+        "Abaíra",
+        "Macaúbas"
+    ],
+    "Rio Real": [
+        "Crisópolis",
+        "Jandaíra",
+        "Acajutiba",
+        "Itapicuru",
+        "Conde",
+        "Esplanada"
+    ],
+    "Rodelas": [
+        "Paulo Afonso",
+        "Jeremoabo",
+        "Glória",
+        "Canudos",
+        "Macururé",
+        "Chorrochó"
+    ],
+    "Ruy Barbosa": [
+        "Mundo Novo",
+        "Ipirá",
+        "Utinga",
+        "Macajuba",
+        "Lajedinho",
+        "Boa Vista do Tupim",
+        "Itaberaba",
+        "Wagner"
+    ],
+    "Salinas da Margarida": [
+        "Jaguaripe",
+        "Vera Cruz",
+        "Saubara",
+        "Itaparica",
+        "Salvador",
+        "Maragogipe"
+    ],
+    "Salvador": [
+        "Candeias",
+        "Vera Cruz",
+        "Saubara",
+        "Simões Filho",
+        "Itaparica",
+        "São Francisco do Conde",
+        "Lauro de Freitas",
+        "Madre de Deus",
+        "Salinas da Margarida"
+    ],
+    "Santa Bárbara": [
+        "Feira de Santana",
+        "Santanópolis",
+        "Lamarão",
+        "Serrinha",
+        "Tanquinho"
+    ],
+    "Santa Brígida": [
+        "Paulo Afonso",
+        "Jeremoabo",
+        "Pedro Alexandre"
+    ],
+    "Santa Cruz Cabrália": [
+        "Eunápolis",
+        "Porto Seguro",
+        "Belmonte"
+    ],
+    "Santa Cruz da Vitória": [
+        "Floresta Azul",
+        "Itaju do Colônia",
+        "Firmino Alves",
+        "Ibicuí"
+    ],
+    "Santa Inês": [
+        "Cravolândia",
+        "Itaquara",
+        "Ubaíra",
+        "Nova Itarana",
+        "Irajuba",
+        "Brejões"
+    ],
+    "Santaluz": [
+        "São José do Jacuípe",
+        "Gavião",
+        "Queimadas",
+        "Capim Grosso",
+        "Nordestina",
+        "Valente",
+        "Conceição do Coité",
+        "Cansanção",
+        "São Domingos",
+        "Araci"
+    ],
+    "Santa Luzia": [
+        "Arataca",
+        "Mascote",
+        "Camacan",
+        "Una",
+        "Canavieiras"
+    ],
+    "Santa Maria da Vitória": [
+        "Jaborandi",
+        "Canápolis",
+        "Santana",
+        "São Félix do Coribe",
+        "Correntina",
+        "Baianópolis",
+        "São Desidério"
+    ],
+    "Santana": [
+        "Canápolis",
+        "Serra do Ramalho",
+        "Sítio do Mato",
+        "Serra Dourada",
+        "Bom Jesus da Lapa",
+        "Santa Maria da Vitória",
+        "Baianópolis",
+        "São Félix do Coribe"
+    ],
+    "Santanópolis": [
+        "Irará",
+        "Feira de Santana",
+        "Coração de Maria",
+        "Santa Bárbara",
+        "Lamarão",
+        "Água Fria"
+    ],
+    "Santa Rita de Cássia": [
+        "Mansidão",
+        "Riachão das Neves",
+        "Formosa do Rio Preto",
+        "Cotegipe"
+    ],
+    "Santa Terezinha": [
+        "Itatim",
+        "Elísio Medrado",
+        "Castro Alves",
+        "Varzedo",
+        "Milagres",
+        "Amargosa",
+        "Rafael Jambeiro"
+    ],
+    "Santo Amaro": [
+        "São Gonçalo dos Campos",
+        "Feira de Santana",
+        "Conceição do Jacuípe",
+        "Saubara",
+        "Cachoeira",
+        "São Francisco do Conde",
+        "São Sebastião do Passé",
+        "Amélia Rodrigues",
+        "Conceição da Feira",
+        "Madre de Deus"
+    ],
+    "Santo Antônio de Jesus": [
+        "Laje",
+        "Muniz Ferreira",
+        "São Felipe",
+        "Varzedo",
+        "Aratuípe",
+        "São Miguel das Matas",
+        "Conceição do Almeida",
+        "Dom Macedo Costa"
+    ],
+    "Santo Estêvão": [
+        "Rafael Jambeiro",
+        "Castro Alves",
+        "Cabaceiras do Paraguaçu",
+        "Antônio Cardoso",
+        "Ipecaetá"
+    ],
+    "São Desidério": [
+        "Barreiras",
+        "Luís Eduardo Magalhães",
+        "Catolândia",
+        "Santa Maria da Vitória",
+        "Correntina",
+        "Baianópolis"
+    ],
+    "São Domingos": [
+        "Gavião",
+        "Nova Fátima",
+        "Valente",
+        "Santaluz",
+        "Retirolândia",
+        "Riachão do Jacuípe"
+    ],
+    "São Félix": [
+        "Cruz das Almas",
+        "Muritiba",
+        "Cachoeira",
+        "Governador Mangabeira",
+        "Maragogipe",
+        "São Felipe"
+    ],
+    "São Félix do Coribe": [
+        "Jaborandi",
+        "Santana",
+        "Coribe",
+        "Carinhanha",
+        "Serra do Ramalho",
+        "Santa Maria da Vitória"
+    ],
+    "São Felipe": [
+        "Muniz Ferreira",
+        "Cruz das Almas",
+        "Nazaré",
+        "Conceição do Almeida",
+        "Santo Antônio de Jesus",
+        "São Félix",
+        "Sapeaçu",
+        "Maragogipe",
+        "Dom Macedo Costa"
+    ],
+    "São Francisco do Conde": [
+        "Candeias",
+        "Santo Amaro",
+        "Saubara",
+        "São Sebastião do Passé",
+        "Salvador",
+        "Madre de Deus"
+    ],
+    "São Gabriel": [
+        "Irecê",
+        "Presidente Dutra",
+        "João Dourado",
+        "Sento Sé",
+        "Jussara",
+        "Morro do Chapéu",
+        "Central"
+    ],
+    "São Gonçalo dos Campos": [
+        "Conceição da Feira",
+        "Santo Amaro",
+        "Antônio Cardoso",
+        "Feira de Santana"
+    ],
+    "São José da Vitória": [
+        "Arataca",
+        "Jussari",
+        "Una",
+        "Itabuna",
+        "Buerarema"
+    ],
+    "São José do Jacuípe": [
+        "Gavião",
+        "Capim Grosso",
+        "Várzea da Roça",
+        "Capela do Alto Alegre",
+        "Santaluz",
+        "Quixabeira"
+    ],
+    "São Miguel das Matas": [
+        "Laje",
+        "Elísio Medrado",
+        "Varzedo",
+        "Santo Antônio de Jesus",
+        "Amargosa"
+    ],
+    "São Sebastião do Passé": [
+        "Pojuca",
+        "Candeias",
+        "Terra Nova",
+        "Santo Amaro",
+        "Mata de São João",
+        "Dias d'Ávila",
+        "São Francisco do Conde",
+        "Amélia Rodrigues",
+        "Catu"
+    ],
+    "Sapeaçu": [
+        "Cruz das Almas",
+        "Castro Alves",
+        "Conceição do Almeida",
+        "Cabaceiras do Paraguaçu",
+        "São Felipe"
+    ],
+    "Sátiro Dias": [
+        "Nova Soure",
+        "Inhambupe",
+        "Olindina",
+        "Tucano",
+        "Biritinga",
+        "Água Fria",
+        "Araci"
+    ],
+    "Saubara": [
+        "Santo Amaro",
+        "Itaparica",
+        "Cachoeira",
+        "São Francisco do Conde",
+        "Salvador",
+        "Salinas da Margarida",
+        "Madre de Deus",
+        "Maragogipe"
+    ],
+    "Saúde": [
+        "Pindobaçu",
+        "Jacobina",
+        "Ponto Novo",
+        "Mirangaba",
+        "Caém",
+        "Caldeirão Grande"
+    ],
+    "Seabra": [
+        "Brotas de Macaúbas",
+        "Palmeiras",
+        "Iraquara",
+        "Boninal",
+        "Ibitiara",
+        "Souto Soares",
+        "Barra do Mendes"
+    ],
+    "Sebastião Laranjeiras": [
+        "Iuiu",
+        "Urandi",
+        "Guanambi",
+        "Palmas de Monte Alto",
+        "Pindaí",
+        "Candiba"
+    ],
+    "Senhor do Bonfim": [
+        "Andorinha",
+        "Antônio Gonçalves",
+        "Campo Formoso",
+        "Filadélfia",
+        "Jaguarari",
+        "Itiúba"
+    ],
+    "Serra do Ramalho": [
+        "Santana",
+        "Carinhanha",
+        "Malhada",
+        "Bom Jesus da Lapa",
+        "São Félix do Coribe"
+    ],
+    "Sento Sé": [
+        "Itaguaçu da Bahia",
+        "Pilão Arcado",
+        "Campo Formoso",
+        "São Gabriel",
+        "Sobradinho",
+        "Casa Nova",
+        "Jussara",
+        "Morro do Chapéu",
+        "Umburanas",
+        "Xique-Xique",
+        "Remanso"
+    ],
+    "Serra Dourada": [
+        "Tabocas do Brejo Velho",
+        "Santana",
+        "Brejolândia",
+        "Sítio do Mato",
+        "Baianópolis"
+    ],
+    "Serra Preta": [
+        "Candeal",
+        "Feira de Santana",
+        "Ipirá",
+        "Anguera",
+        "Riachão do Jacuípe",
+        "Pé de Serra",
+        "Ipecaetá"
+    ],
+    "Serrinha": [
+        "Candeal",
+        "Teofilândia",
+        "Conceição do Coité",
+        "Santa Bárbara",
+        "Lamarão",
+        "Biritinga",
+        "Barrocas",
+        "Tanquinho",
+        "Ichu"
+    ],
+    "Serrolândia": [
+        "Várzea da Roça",
+        "Miguel Calmon",
+        "Várzea do Poço",
+        "Quixabeira",
+        "Jacobina"
+    ],
+    "Simões Filho": [
+        "Candeias",
+        "Camaçari",
+        "Dias d'Ávila",
+        "Lauro de Freitas",
+        "Salvador"
+    ],
+    "Sítio do Mato": [
+        "Santana",
+        "Brejolândia",
+        "Serra Dourada",
+        "Muquém do São Francisco",
+        "Bom Jesus da Lapa",
+        "Paratinga"
+    ],
+    "Sítio do Quinto": [
+        "Coronel João Sá",
+        "Jeremoabo",
+        "Antas",
+        "Novo Triunfo",
+        "Fátima",
+        "Adustina"
+    ],
+    "Sobradinho": [
+        "Casa Nova",
+        "Juazeiro",
+        "Sento Sé",
+        "Campo Formoso"
+    ],
+    "Souto Soares": [
+        "Iraquara",
+        "Mulungu do Morro",
+        "Barro Alto",
+        "Barra do Mendes",
+        "Seabra"
+    ],
+    "Tabocas do Brejo Velho": [
+        "Brejolândia",
+        "Wanderley",
+        "Serra Dourada",
+        "Cristópolis",
+        "Baianópolis"
+    ],
+    "Tanhaçu": [
+        "Contendas do Sincorá",
+        "Mirante",
+        "Aracatu",
+        "Caetanos",
+        "Ituaçu",
+        "Brumado"
+    ],
+    "Tanque Novo": [
+        "Botuporã",
+        "Caetité",
+        "Macaúbas",
+        "Riacho de Santana",
+        "Paramirim"
+    ],
+    "Tanquinho": [
+        "Serrinha",
+        "Santa Bárbara",
+        "Candeal",
+        "Feira de Santana"
+    ],
+    "Taperoá": [
+        "Presidente Tancredo Neves",
+        "Cairu",
+        "Valença",
+        "Teolândia",
+        "Nilo Peçanha"
+    ],
+    "Tapiramutá": [
+        "Morro do Chapéu",
+        "Utinga",
+        "Piritiba",
+        "Mundo Novo"
+    ],
+    "Teixeira de Freitas": [
+        "Caravelas",
+        "Medeiros Neto",
+        "Vereda",
+        "Prado",
+        "Alcobaça"
+    ],
+    "Teodoro Sampaio": [
+        "Terra Nova",
+        "Coração de Maria",
+        "Conceição do Jacuípe",
+        "Alagoinhas",
+        "Aramari",
+        "Pedrão",
+        "Catu"
+    ],
+    "Teofilândia": [
+        "Serrinha",
+        "Araci",
+        "Barrocas",
+        "Biritinga"
+    ],
+    "Teolândia": [
+        "Taperoá",
+        "Ubaíra",
+        "Presidente Tancredo Neves",
+        "Mutuípe",
+        "Wenceslau Guimarães",
+        "Jiquiriçá",
+        "Nilo Peçanha"
+    ],
+    "Terra Nova": [
+        "Teodoro Sampaio",
+        "Conceição do Jacuípe",
+        "São Sebastião do Passé",
+        "Amélia Rodrigues",
+        "Catu"
+    ],
+    "Tremedal": [
+        "Cândido Sales",
+        "Piripá",
+        "Belo Campo",
+        "Presidente Jânio Quadros",
+        "Caraíbas",
+        "Maetinga"
+    ],
+    "Tucano": [
+        "Nova Soure",
+        "Ribeira do Pombal",
+        "Sátiro Dias",
+        "Cipó",
+        "Araci",
+        "Quijingue"
+    ],
+    "Uauá": [
+        "Monte Santo",
+        "Andorinha",
+        "Canudos",
+        "Jaguarari",
+        "Curaçá",
+        "Chorrochó"
+    ],
+    "Ubaíra": [
+        "Cravolândia",
+        "Laje",
+        "Teolândia",
+        "Wenceslau Guimarães",
+        "Jiquiriçá",
+        "Brejões",
+        "Amargosa",
+        "Santa Inês"
+    ],
+    "Ubaitaba": [
+        "Gongogi",
+        "Aurelino Leal",
+        "Itacaré",
+        "Maraú",
+        "Ubatã",
+        "Ibirapitanga"
+    ],
+    "Ubatã": [
+        "Gongogi",
+        "Ubaitaba",
+        "Barra do Rocha",
+        "Ibirataia",
+        "Ibirapitanga"
+    ],
+    "Uibaí": [
+        "Ibititá",
+        "Itaguaçu da Bahia",
+        "Presidente Dutra",
+        "Ibipeba",
+        "Central"
+    ],
+    "Umburanas": [
+        "Ourolândia",
+        "Sento Sé",
+        "Campo Formoso",
+        "Mirangaba",
+        "Morro do Chapéu"
+    ],
+    "Una": [
+        "Arataca",
+        "Santa Luzia",
+        "Ilhéus",
+        "Canavieiras",
+        "São José da Vitória",
+        "Buerarema"
+    ],
+    "Urandi": [
+        "Sebastião Laranjeiras",
+        "Jacaraci",
+        "Licínio de Almeida",
+        "Pindaí"
+    ],
+    "Uruçuca": [
+        "Itacaré",
+        "Aurelino Leal",
+        "Ilhéus"
+    ],
+    "Utinga": [
+        "Mundo Novo",
+        "Tapiramutá",
+        "Bonito",
+        "Ruy Barbosa",
+        "Morro do Chapéu",
+        "Wagner"
+    ],
+    "Valença": [
+        "Laje",
+        "Taperoá",
+        "Jaguaripe",
+        "Presidente Tancredo Neves",
+        "Cairu",
+        "Mutuípe"
+    ],
+    "Valente": [
+        "Santaluz",
+        "São Domingos",
+        "Retirolândia",
+        "Conceição do Coité"
+    ],
+    "Várzea da Roça": [
+        "São José do Jacuípe",
+        "Serrolândia",
+        "Capela do Alto Alegre",
+        "Várzea do Poço",
+        "Quixabeira",
+        "Mairi"
+    ],
+    "Várzea do Poço": [
+        "Serrolândia",
+        "Piritiba",
+        "Mundo Novo",
+        "Miguel Calmon",
+        "Várzea da Roça",
+        "Mairi"
+    ],
+    "Várzea Nova": [
+        "Morro do Chapéu",
+        "Ourolândia",
+        "Miguel Calmon",
+        "Jacobina"
+    ],
+    "Varzedo": [
+        "Elísio Medrado",
+        "Castro Alves",
+        "São Miguel das Matas",
+        "Santa Terezinha",
+        "Conceição do Almeida",
+        "Santo Antônio de Jesus"
+    ],
+    "Vera Cruz": [
+        "Salvador",
+        "Jaguaripe",
+        "Salinas da Margarida",
+        "Itaparica"
+    ],
+    "Vereda": [
+        "Itanhém",
+        "Jucuruçu",
+        "Medeiros Neto",
+        "Teixeira de Freitas",
+        "Itamaraju",
+        "Prado",
+        "Alcobaça"
+    ],
+    "Vitória da Conquista": [
+        "Cândido Sales",
+        "Anagé",
+        "Encruzilhada",
+        "Belo Campo",
+        "Ribeirão do Largo",
+        "Itambé",
+        "Planalto",
+        "Barra do Choça"
+    ],
+    "Wagner": [
+        "Lençóis",
+        "Utinga",
+        "Bonito",
+        "Lajedinho",
+        "Ruy Barbosa"
+    ],
+    "Wanderley": [
+        "Tabocas do Brejo Velho",
+        "Brejolândia",
+        "Cotegipe",
+        "Barra",
+        "Cristópolis",
+        "Muquém do São Francisco",
+        "Mansidão"
+    ],
+    "Wenceslau Guimarães": [
+        "Cravolândia",
+        "Itaquara",
+        "Ubaíra",
+        "Itamari",
+        "Teolândia",
+        "Gandu",
+        "Jaguaquara",
+        "Nilo Peçanha",
+        "Nova Ibiá"
+    ],
+    "Xique-Xique": [
+        "Gentio do Ouro",
+        "Itaguaçu da Bahia",
+        "Barra",
+        "Pilão Arcado",
+        "Sento Sé",
+        "Morpará"
+    ]
+}
